@@ -2,7 +2,7 @@ package testCases;
 
 public class B {
 	
-	public void add()
+	public void sub()
 	{
 		System.out.println("hello");
 	}
